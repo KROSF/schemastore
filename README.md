@@ -11,8 +11,7 @@ Add to your config the following
 ```json
 "yaml.schemas": {
     "https://raw.githubusercontent.com/krosf/schemastore/main/taskfile.schema.json": [
-      "Taskfile.yml",
-      "Taskfile.yaml"
+      "Taskfile.yml"
     ]
 }
 ```
